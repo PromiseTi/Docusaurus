@@ -6,7 +6,7 @@ module.exports = {
   title: 'Welcome to web3medicallabs',
   tagline: 'Dinosaurs are cool',
   url: 'https://tiaotiaohua.github.io',
-  baseUrl: '/Docusaurus/',
+  baseUrl: '/Docusaurus/build/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
